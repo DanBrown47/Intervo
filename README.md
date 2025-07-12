@@ -56,7 +56,7 @@ Get up and running in minutes using Docker.
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/Intervo/Intervo.git](https://github.com/Intervo/Intervo.git)
+    git clone https://github.com/Intervo/Intervo.git
     cd Intervo
     ```
 
